@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eadweard Muybridge
+title: Muybridge
 ---
 
 # Eadweard Muybridge (1839-1904)
