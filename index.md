@@ -8,7 +8,8 @@ Let's set the boundary of our discussion with [this timeline of Animation Histor
 
 ## People
 
-* [Eadweard Muybridge](people/muybridge.md)
+* [Eadweard Muybridge](people/muybridge)
+* [Walt Disney](people/disney)
 
 ## Techniques
 
