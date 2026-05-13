@@ -13,6 +13,7 @@ Let's set the boundary of our discussion with [this timeline of Animation Histor
 * [Lotte Reiniger](people/reiniger)
 
 * [Walt Disney](people/disney)
+
 * 
 
 
