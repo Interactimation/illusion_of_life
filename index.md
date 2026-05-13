@@ -14,7 +14,7 @@ Let's set the boundary of our discussion with [this timeline of Animation Histor
 
 * [Walt Disney](people/disney)
 
-* [You]
+* [Me]
 
 
 ## Techniques
