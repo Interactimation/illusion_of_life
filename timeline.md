@@ -27,19 +27,36 @@ Among its remarkable depictions is this boar with eight legs:
 
 ![boar with eight legs](pix/Eight-legged-polychrome-boar-from-Altamira-cave.png) which some believe represents a kind of [timelapse image of the creature, walking](https://dn721604.ca.archive.org/0/items/eight-legged-boar-animation/eight-legged%20boar%20ANIMATION.gif)
 
-#### Consider:
+#### _Consider:_
 
 > Under a fickle light, moving through the dark, how did ancient people perceive these figures? As mobile, changing, alive with potent energy?
 
 There must have been some special reason to create and keep such images in so remote a place. By around 21,000 years ago the original entrance to the caves had been completely sealed by rockfall, preserving it until its (re)discovery in 1994! 
 
-[Take a (virtual) tour of Chauvet Caves](https://www.youtube.com/watch?v=_zJbi9YatcA)
+> [Take a (virtual) tour of Chauvet Caves!](https://www.youtube.com/watch?v=_zJbi9YatcA)
 
 
 
 ## Antiquity
 
-Egyptian
+### Persia (Iran)
+
+A pottery bowl, dated to about 5,000 years ago and discovered at the archaeological site of Shahr-e Sukhteh ("Burnt City") in Iran, presents five images that have been interpreted as [consecutive phases of a goat leaping up to nip at a tree](https://mymodernmet.com/iranian-vase-animation-shahr-e-sukhteh/
+).
+
+### Egyptian 
+
+Some ancientEgyptian wall art bears a striking resemblance to sequential art, such as comic books. Rows of [images of wrestlers](https://www.google.com/imgres?q=Khnumhotep%20sequential%20art%20wrestlers&imgurl=https%3A%2F%2Fi0.wp.com%2Fnijomu.com%2Fwp-content%2Fuploads%2F2024%2F12%2Fegyprianwrestlers-pre.jpg%3Ffit%3D720%252C720%26ssl%3D1&imgrefurl=https%3A%2F%2Fnijomu.com%2Fhistory%2Fbefore-comics-egyptian-wrestlers%2F&docid=nRDhTt1y28l75M&tbnid=HHE3j1Oe3ZCk8M&vet=12ahUKEwj15_yAwNeUAxU6hYkEHcIQBVwQnPAOegQIEhAB..i&w=720&h=720&hcb=2&ved=2ahUKEwj15_yAwNeUAxU6hYkEHcIQBVwQnPAOegQIEhAB#sv=CAMSXhoyKhBlLUhsN21uRUJVYWhqVGpNMg5IbDdtbkVCVWFoalRqTToORFhFM0R5R3FyY3UzSE0gBCokCg5ISEUzajFPZTNaQ2s4TRIQZS1IbDdtbkVCVWFoalRqTRgAMAEYByDD94-wC0oIEAEYASABKAE) come to mind. 
+
+IN the 1800s some visitor to the tomb of Khnumhotep made this drawing of such a mural: ![wrestlers in sequence](pix/Egyptmotionseries.jpg)
+
+And in his 1993 book, _Understanding Comics_, Scott McCloud thinks he's found sequential art [almost everywhere he looks](https://archive.org/details/UnderstandingComicsTheInvisibleArtByScottMcCloud/page/n16/mode/1up), from the  Aztec codices, through the [Bayeux Tapestry](https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/explore-online/) and lots of _other_ places too!  
+
+
+
+
+
+
 
 
 
