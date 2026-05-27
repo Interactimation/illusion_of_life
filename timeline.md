@@ -72,9 +72,27 @@ But in his 1993 book, _Understanding Comics_, Scott McCloud thinks he's found se
 
 * ### Photography
 
+    * #### Beginnings
+
 ![view from the window at le gras](https://cdn.britannica.com/34/198534-050-84D8C626/joseph-nicephore-niepce-heliograph.jpg)
 
-A few years before Queen Victoria (for whom the era is named) ascended to the throne of Great Britain, the first photographs were made. The oldest surviving is called "View from the Window at Le Gras" and was produced by Nicéphore Niépce in 1826 or 27. Its printed on a metal plate, with an exposure time which must have been at least 8 hours and may have amounted to several days
+A few years before Queen Victoria (for whom the era is named) ascended to the throne of Great Britain, the first photographs were made. The oldest surviving is called _View from the Window at Le Gras_ and was produced by Nicéphore Niépce in 1826 or 27. It's printed on a metal plate, with an exposure time which must have been at least 8 hours and may have amounted to several days.
+
+Of course no one was going to sit still for that! If photography was to become a form of portraiture, it would have to pick up the pace.
+
+![first photo of a living person](https://cdn.britannica.com/96/140496-050-62AEE217/View-of-the-Boulevard-du-Temple-Paris-Louis-Jacques-Mande-Daguerre.jpg)
+
+The first photograph to show a living person did so by accident and was produced in 1838 by Louis-Jacques-Mandé Daguerre,who would give his name to the daguerreotype which could produce a highly detailed, one-of-a-kind image directly onto a polished, silver-coated copper plate using toxic mercury vapor. It was a commercial success!
+
+------
+
+#### _Consider:_
+
+> Below is the "human figure" from the Daguerre image. Can you guess what he's doing? The exposure time on this was at least 10 minutes and there must've been people, moving carts, etc on the street which the camer was not quick enough to capture. See of you can learn what people thinking this guy was up to? It may help to know the photograph is known as _Boulevard du Temple_    
+
+------
+
+
 
 
 * ### Magic Lantern
