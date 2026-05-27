@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# _Illusion of Life:_ <br /> A History of Animation
+# Illusion of Life:<br />_A History of Animation_
 
 Art is artificial, that is, it exist nowhere in nature except as the production of self-aware beings.
 
