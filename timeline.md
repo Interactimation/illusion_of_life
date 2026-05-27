@@ -11,7 +11,7 @@ title: Timeline
 
 #### Chauvet
 
-Within a limestone plateau in the south of France are to be found the earliest known and best preserved [figurative drawings](https://www.merriam-webster.com/dictionary/figurative) in the world, dating to 32,000 years ago, when vast ice sheets covered much of Northern Europe and North America —not yet the _peak_ of the last _Ice Age_— when Britain was connected to Europe and a land bridge joined Siberia and Alaska.
+Within a limestone plateau in the south of France are to be found the earliest known and best preserved [figurative drawings](https://www.merriam-webster.com/dictionary/figurative) in the world, dating to 32,000 years ago, when [vast ice sheets](pix/iceAge.jpg)  covered much of Northern Europe and North America —not yet the _peak_ of the last _Ice Age_— when Britain was connected to Europe and a land bridge joined Siberia and Alaska.
 
 The "figures" depicted in [Chauvet Cave](https://whc.unesco.org/en/list/1426/) (be sure to click any of the footnote pictures below the main photograph for further pix!) include wooly mammoths, wooly rhinoceri (both of which would have been alive and roaming the area at the time) cave bears, horses, ibex (enormous goats with swept-back horns) reindeer, foxes, wolves, and oxen.
 
@@ -25,7 +25,9 @@ A little less than 922 km (600 miles) away, in the north of Spain, the [Cave of 
 
 Among its remarkable depictions is this boar with eight legs:
 
-![boar with eight legs](pix/Eight-legged-polychrome-boar-from-Altamira-cave.png) which some believe represents a kind of [timelapse image of the creature, walking](https://dn721604.ca.archive.org/0/items/eight-legged-boar-animation/eight-legged%20boar%20ANIMATION.gif)
+![boar with eight legs](pix/Eight-legged-polychrome-boar-from-Altamira-cave.png).
+
+Some believe this represents a kind of [timelapse image of the creature, walking](https://dn721604.ca.archive.org/0/items/eight-legged-boar-animation/eight-legged%20boar%20ANIMATION.gif)
 
 #### _Consider:_
 
@@ -48,7 +50,7 @@ A pottery bowl, dated to about 5,000 years ago and discovered at the archaeologi
 
 Some ancientEgyptian wall art bears a striking resemblance to sequential art, such as comic books. Rows of [images of wrestlers](https://www.google.com/imgres?q=Khnumhotep%20sequential%20art%20wrestlers&imgurl=https%3A%2F%2Fi0.wp.com%2Fnijomu.com%2Fwp-content%2Fuploads%2F2024%2F12%2Fegyprianwrestlers-pre.jpg%3Ffit%3D720%252C720%26ssl%3D1&imgrefurl=https%3A%2F%2Fnijomu.com%2Fhistory%2Fbefore-comics-egyptian-wrestlers%2F&docid=nRDhTt1y28l75M&tbnid=HHE3j1Oe3ZCk8M&vet=12ahUKEwj15_yAwNeUAxU6hYkEHcIQBVwQnPAOegQIEhAB..i&w=720&h=720&hcb=2&ved=2ahUKEwj15_yAwNeUAxU6hYkEHcIQBVwQnPAOegQIEhAB#sv=CAMSXhoyKhBlLUhsN21uRUJVYWhqVGpNMg5IbDdtbkVCVWFoalRqTToORFhFM0R5R3FyY3UzSE0gBCokCg5ISEUzajFPZTNaQ2s4TRIQZS1IbDdtbkVCVWFoalRqTRgAMAEYByDD94-wC0oIEAEYASABKAE) come to mind. 
 
-IN the 1800s some visitor to the tomb of Khnumhotep made this drawing of such a mural: ![wrestlers in sequence](pix/Egyptmotionseries.jpg)
+In the 1800s some visitor to the tomb of Khnumhotep made this drawing of such a mural: ![wrestlers in sequence](pix/Egyptmotionseries.jpg)
 
 And in his 1993 book, _Understanding Comics_, Scott McCloud thinks he's found sequential art [almost everywhere he looks](https://archive.org/details/UnderstandingComicsTheInvisibleArtByScottMcCloud/page/n16/mode/1up), from the  Aztec codices, through the [Bayeux Tapestry](https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/explore-online/) and lots of _other_ places too!  
 
