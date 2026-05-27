@@ -31,7 +31,7 @@ The retina may maintain an image as long as 1/10 of a second or 100 milliseconds
 
 #### _Consider:_
 
-> The retina may maintain an image as long as 1/10 of a second or 100 milliseconds. But that's not the whole story. The brain is constantly interpreting new images as they strike the retina and they tend to do so continuously (not as in lightning strikes) so the brain is always making predictions about what will happen next and these can contribute to the illusion of animation.
+> The retina may maintain an image as long as 1/10 of a second or 100 milliseconds. But that's not the whole story. The brain is constantly interpreting new images as they strike the retina and they tend to do so continuously (not as in lightning strikes).<br />So the brain is always making predictions about what will happen next and these can contribute to the illusion of animation.
 
 ------
 
