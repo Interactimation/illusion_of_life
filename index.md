@@ -35,7 +35,8 @@ The retina may maintain an image as long as 1/10 of a second or 100 milliseconds
 
 ------
 
-Illusions we may have always had with us, as a species, but the specifics of animation are relatively new in our history. In order to put animation in its proper context, then, let's set the boundary of our discussion with [A Timeline of Proto-Animation](timeline)
+Illusions we may have always had with us, as a species, but the specifics of animation are relatively new in our history. In order to put animation in its proper context, then, let's set the boundary of our discussion with:
+[A Timeline of Proto-Animation](timeline)
 
 ------
 
