@@ -8,7 +8,17 @@ Art is artificial, that is, it exist nowhere in nature except as the production 
 
 What's more it deals in illusion, it's not that "a ball bounces", but that a circle is drawn and redrawn slightly differently and these drawings are presented in rapid succession so as to create the sense of continuity, of motion, of _bounce_!
 
-<iframe width="560" src="https://www.youtube.com/embed/gRUu8UoNakA?si=0cL3n39ZpVB-Hl6G" title="YouTube video player" frameborder="0" allow="autoplay; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe
+  class="video-left"
+  src="https://www.youtube.com/embed/gRUu8UoNakA?si=0cL3n39ZpVB-Hl6G"
+  title="YouTube video player"
+  frameborder="0"
+  allow="autoplay; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+
+
 
 ------
 
