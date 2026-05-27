@@ -11,7 +11,7 @@ title: Timeline
 
 #### Chauvet
 
-Within a limestone plateau in the south of France are to be found the earliest known and best preserved [figurative drawings](https://www.merriam-webster.com/dictionary/figurative) in the world, dating to 32,000 years ago, when vast ice sheets ![ice age map](pix/iceAge.jpg)  covered much of Northern Europe and North America —not yet the _peak_ of the last _Ice Age_— when Britain was connected to Europe and a land bridge joined Siberia and Alaska.
+Within a limestone plateau in the south of France are to be found the earliest known and best preserved [figurative drawings](https://www.merriam-webster.com/dictionary/figurative) in the world, dating to 32,000 years ago, when vast ice sheets covered much of Northern Europe and North America ![ice age map](pix/iceAge.jpg) —not yet the _peak_ of the last _Ice Age_— when Britain was connected to Europe and a land bridge joined Siberia and Alaska.
 
 The "figures" depicted in [Chauvet Cave](https://whc.unesco.org/en/list/1426/) (be sure to click any of the footnote pictures below the main photograph for further pix!) include wooly mammoths, wooly rhinoceri (both of which would have been alive and roaming the area at the time) cave bears, horses, ibex (enormous goats with swept-back horns) reindeer, foxes, wolves, and oxen.
 
