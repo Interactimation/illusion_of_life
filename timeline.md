@@ -29,15 +29,21 @@ Among its remarkable depictions is this boar with eight legs:
 
 Some believe this represents a kind of [timelapse image of the creature, walking](https://dn721604.ca.archive.org/0/items/eight-legged-boar-animation/eight-legged%20boar%20ANIMATION.gif)
 
+------
+
 #### _Consider:_
 
 > Under a fickle light, moving through the dark, how did ancient people perceive these figures? As mobile, changing, alive with potent energy?
 
 There must have been some special reason to create and keep such images in so remote a place. By around 21,000 years ago the original entrance to the caves had been completely sealed by rockfall, preserving it until its (re)discovery in 1994! 
 
+------
+
+#### _Engage:_
+
 > [Take a (virtual) tour of Chauvet Caves!](https://www.youtube.com/watch?v=_zJbi9YatcA)
 
-
+------
 
 ## Antiquity
 
