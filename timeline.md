@@ -41,7 +41,7 @@ There must have been some special reason to create and keep such images in so re
 
 #### _Engage:_
 
-> [Take a (virtual) tour of Chauvet Caves!](https://www.youtube.com/watch?v=_zJbi9YatcA)
+> [Take a (virtual) tour of Chauvet Caves](https://www.youtube.com/watch?v=_zJbi9YatcA)
 
 <hr>
 
