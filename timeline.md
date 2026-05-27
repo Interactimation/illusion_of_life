@@ -25,7 +25,7 @@ A little less than 922 km (600 miles) away, in the north of Spain, the [Cave of 
 
 Among its remarkable depictions is this boar with eight legs:
 
-![boar with eight legs](pix/Eight-legged-polychrome-boar-from-Altamira-cave.png).
+![boar with eight legs](pix/Eight-legged-polychrome-boar-from-Altamira-cave.png)
 
 Some believe this represents a kind of [timelapse image of the creature, walking](https://dn721604.ca.archive.org/0/items/eight-legged-boar-animation/eight-legged%20boar%20ANIMATION.gif)
 
