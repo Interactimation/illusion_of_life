@@ -6,8 +6,6 @@ layout: default
 
 Art is artificial, that is, it exist nowhere in nature except as the production of self-aware beings.
 
-What's more it deals in illusion, it's not that "a ball bounces", but that a circle is drawn and redrawn slightly differently and these drawings are presented in rapid succession so as to create the sense of continuity, of motion, of _bounce_!
-
 <iframe
   class="video-left"
   src="https://www.youtube.com/embed/gRUu8UoNakA?si=0cL3n39ZpVB-Hl6G"
@@ -18,9 +16,25 @@ What's more it deals in illusion, it's not that "a ball bounces", but that a cir
   allowfullscreen>
 </iframe>
 
+What's more, it deals in illusion: it's not that "a ball bounces", but that a circle is drawn and redrawn slightly differently and these drawings are presented in rapid succession so as to create the sense of continuity, of motion, of _bounce_!
 
+When we think of animation many and diverse technologies, techniques and types may come to mind but the essential element shared by all of them is that of _illusion_ —and this fooling of the eye is made possible by "retinal persistence" or something called _the persistence of vision_.
+
+If you've ever been driving along int he countryside at night and experienced a flash of lightning, you may have seen, etched out against the dark, an old barn, craggy tree, axe-wielding madman beside the road… All as clear as day. 
+
+But the truth is, a flash of lightning may last less than a millisecond (1/1000 of a second). In fact, as you swerve to miss the madman, you may continue to see him in an "afterimage."
+
+The retina may maintain an image as long as 1/10 of a second or 100 milliseconds.
+
+
+------ 
+
+#### _Consider:_
+
+> The retina may maintain an image as long as 1/10 of a second or 100 milliseconds. But that's not the whole story. The brain is constantly interpreting new images as they strike the retina and they tend to do so continuously (not as in lightning strikes) so the brain is always making predictions about what will happen next and these can contribute to the illusion of animation.
 
 ------
+
 
 
 Let's set the boundary of our discussion with [A Timeline of Proto-Animation](timeline)
