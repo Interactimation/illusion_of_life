@@ -104,7 +104,7 @@ Slides could be changed, moved or filtered or crossfaded. The path of the image 
 
 ## The "Victorian" Era
 
-* ### Photography
+### Photography
 
 ![view from the window at le gras](https://cdn.britannica.com/34/198534-050-84D8C626/joseph-nicephore-niepce-heliograph.jpg)
 
@@ -124,11 +124,12 @@ The first photograph to show a living person did so by accident and was produced
 
 ------
 
-* ### Optical Toys
+### Optical Toys
 
 Around this time some interestingly named "optical toys", gismos and curiosities became popular:
 
-    * #### Thaumatrope
+* #### Thaumatrope
+    
 <iframe
   class="video-left"
   src="https://www.youtube.com/embed/U32Sv99cDOs?si=_zgAN30SCj5mEA1L"
@@ -139,7 +140,8 @@ Around this time some interestingly named "optical toys", gismos and curiosities
   allowfullscreen>
 </iframe>
 
-    * #### Zoetrope
+* #### Zoetrope
+
 <iframe
   class="video-left"
   src="https://www.youtube.com/embed/-3yarT_h2ws?si=m3yLkPIE4i3LywDc"
@@ -150,7 +152,7 @@ Around this time some interestingly named "optical toys", gismos and curiosities
   allowfullscreen>
 </iframe>
 
-    * #### Praxinoscope
+* #### Praxinoscope
 
 <iframe
   class="video-left"
