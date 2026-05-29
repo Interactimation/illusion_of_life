@@ -99,7 +99,7 @@ Whatever's painted on the glass will appear, projected —as with the camera obs
   referrerpolicy="strict-origin-when-cross-origin"
   allowfullscreen>
 </iframe>
-Slides could be changed, moved or filtered, the path of the image could be altered with mirrors or by moving the projector and some startling theatrical effects were thereby produced, to delight or terrify audiences.
+Slides could be changed, moved or filtered or crossfaded. The path of the image could be altered with mirrors or by moving the projector and some startling theatrical effects were thereby produced to delight or terrify audiences.
 
 ------
 
