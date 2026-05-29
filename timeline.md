@@ -5,7 +5,11 @@ title: Timeline
 
 # A Timeline of Proto-Animation
 
-## Prehistory: 
+## Prehistory
+
+The species of which you are a member, has been around for at least 300,000 years —and, no doubt, has been very clever all that time. 
+
+Early human beings did not have writing but they left behind artifacts which help us understand them.
 
 * ### Chauvet
 
@@ -76,6 +80,30 @@ Thus a !["camera obscura" is a "dark room"](pix/obscura.jpg) and it has been kno
 You may have heard this described as a "pinhole camera" and the Greek philospher Aristotle (384-322 BCE) was said to have used [such an apparatus to safely observe solar eclipses](https://www.youtube.com/watch?v=pqh5GDPqZRk). 
 
 ------
+
+## The Scientific Revolution
+
+With the invention of the telescope and the microscope early in the 17th century, the production of optical lenses became an important industry. 
+
+Some time in that century, the "Magic Lantern" was invented, perhaps by [someone like Christiaan Huygens](https://www.luikerwaal.com/newframe_uk.htm?/huygens_uk.htm) or Athanasius Kircher, whose  book, _Ars Magna Lucis et Umbrae_ ("The Great Art of Light and Shadow") contains [an illustration of just such a device](https://en.wikipedia.org/wiki/Ars_Magna_Lucis_et_Umbrae#/media/File:Illustration_of_a_magic_lantern_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D.jpg). 
+
+The magic lantern was popular in entertainment and became an educational tool. It consisted of a curved, "concave" mirror directing a light source through a sheet of painted glass —a "lantern slide" and a focusing lense.
+
+Whatever's painted on the glass will appear, projected —as with the camera obscura— _upside down_ (the slides were inverted to correct this effect). 
+<iframe
+  class="video-left"
+  src="https://www.youtube.com/embed/Xicaw_vhSKw?si=ta13QoACgL8WHSUp"
+  title="YouTube video player"
+  frameborder="0"
+  allow="autoplay; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+Slides could be changed, moved or filtered, the path of the image could be altered with mirrors or by moving the projector and some startling theatrical effects were thereby produced, to delight or terrify audiences.
+
+------
+
+
 
 ## The "Victorian" Era
 
