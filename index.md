@@ -4,9 +4,9 @@ layout: default
 
 # Illusion of Life:<br />_a history of animation_
 
-------
-
 ![imitation of life logo](pix/IofL.jpg)
+
+------
 
 ## Table of Contents
 
