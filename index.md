@@ -24,5 +24,7 @@ layout: default
 * #### [Edweard Muybridge](muybridge)
 
 ------
+
 END
+
 ------
