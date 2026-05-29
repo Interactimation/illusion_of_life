@@ -128,8 +128,8 @@ The first photograph to show a living person did so by accident and was produced
 
 Around this time some interestingly named "optical toys", gismos and curiosities became popular:
 
-* #### Thaumatrope
-    
+* #### Thaumatrope, Zoetrope, Praxinoscope
+
 <iframe
   class="video-left"
   src="https://www.youtube.com/embed/U32Sv99cDOs?si=_zgAN30SCj5mEA1L"
@@ -140,8 +140,6 @@ Around this time some interestingly named "optical toys", gismos and curiosities
   allowfullscreen>
 </iframe>
 
-* #### Zoetrope
-
 <iframe
   class="video-left"
   src="https://www.youtube.com/embed/-3yarT_h2ws?si=m3yLkPIE4i3LywDc"
@@ -151,8 +149,6 @@ Around this time some interestingly named "optical toys", gismos and curiosities
   referrerpolicy="strict-origin-when-cross-origin"
   allowfullscreen>
 </iframe>
-
-* #### Praxinoscope
 
 <iframe
   class="video-left"
