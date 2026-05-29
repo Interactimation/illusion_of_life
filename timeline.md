@@ -13,7 +13,7 @@ Within a limestone plateau in the south of France are to be found the earliest k
 
 The "figures" depicted in [Chauvet Cave](https://whc.unesco.org/en/list/1426/) (be sure to click any of the footnote pictures below the main photograph for further pix!) include wooly mammoths, wooly rhinoceri (both of which would have been alive and roaming the area at the time) cave bears, horses, ibex (enormous goats with swept-back horns) reindeer, foxes, wolves, and oxen.
 
-These images would not have been easy of access to either artists or viewers, involving longish trips through total darkness, treacherous or difficult passage to various sections. Once here, images would have been createdand viewed under the flickering, moving light of torches or small lamps burning fat.
+These images would not have been easy of access to either artists or viewers, involving longish trips through total darkness, treacherous or difficult passage to various sections. Once here, images would have been created and viewed under the flickering, moving light of torches or small lamps burning fat.
 
 Many images are superimposed, one atop another, as if attempting to show the motion, or some transformation of the animal. 
 
@@ -65,6 +65,10 @@ But in his 1993 book, _Understanding Comics_, Scott McCloud thinks he's found se
 #### _Engage:_ 
 
 > Explore McCloud's book on the Internet Archive to learn more about sequential art. Can you say _how_ animation is related to this art form he's describing?
+
+------
+
+## 
 
 ------
 
