@@ -24,6 +24,8 @@ title: tehch&people
 
 ### Technology
 
-
+------
+END
+------
 
 

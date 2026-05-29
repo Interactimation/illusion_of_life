@@ -75,7 +75,7 @@ But in his 1993 book, _Understanding Comics_, Scott McCloud thinks he's found se
 ## Classical Antiquity
 
 It may surprise you that our word "camera" comes from the latin word for a "room". Like the room in a house, or a hotel.
-Thus a !["camera obscura" is a "dark room"](pix/obscura.jpg) and it has been known for at least two and a half millennia that, if light shines through a "pin hole" or small aperture into a darkened space, those within can see an inverted image of what lies outside.
+Thus a "camera obscura" is a "dark room" ![camera obscura"](pix/obscura.jpg) and it has been known for at least two and a half millennia that, if light shines through a "pin hole" or small aperture into a darkened space, those within can see an inverted image of what lies outside.
 
 You may have heard this described as a "pinhole camera" and the Greek philospher Aristotle (384-322 BCE) was said to have used [such an apparatus to safely observe solar eclipses](https://www.youtube.com/watch?v=pqh5GDPqZRk). 
 
@@ -165,6 +165,7 @@ Around this time some interestingly named "optical toys", gizmos and curiosities
 > It's important to notice, especially in the last two examples, that the images have to be separated. We need to see each image and then the next in the same place as the first. Otherwise they all become a blur. Can you tell how projected cinematic film separates the individual frames of the image for our eye?
 
 ------
+END
 ------
 
 

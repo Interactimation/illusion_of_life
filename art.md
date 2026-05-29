@@ -47,4 +47,5 @@ Optical illusions we may have always had with us, as a species, but the specific
 [A Timeline of Proto-Animation](timeline)
 
 ------
+END
 ------
