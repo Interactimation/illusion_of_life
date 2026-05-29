@@ -88,8 +88,6 @@ With the invention of the telescope and the microscope early in the 17th century
 Some time in that century, the "Magic Lantern" was invented, perhaps by [someone like Christiaan Huygens](https://www.luikerwaal.com/newframe_uk.htm?/huygens_uk.htm) or Athanasius Kircher, whose  book, _Ars Magna Lucis et Umbrae_ ("The Great Art of Light and Shadow") contains [an illustration of just such a device](https://en.wikipedia.org/wiki/Ars_Magna_Lucis_et_Umbrae#/media/File:Illustration_of_a_magic_lantern_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D.jpg). 
 
 The magic lantern was popular in entertainment and became an educational tool. It consisted of a curved, "concave" mirror directing a light source through a sheet of painted glass —a "lantern slide" and a focusing lense.
-
-Whatever's painted on the glass will appear, projected —as with the camera obscura— _upside down_ (the slides were inverted to correct this effect). 
 <iframe
   class="video-left"
   src="https://www.youtube.com/embed/Xicaw_vhSKw?si=ta13QoACgL8WHSUp"
@@ -99,11 +97,10 @@ Whatever's painted on the glass will appear, projected —as with the camera obs
   referrerpolicy="strict-origin-when-cross-origin"
   allowfullscreen>
 </iframe>
+Whatever's painted on the glass will appear, projected —as with the camera obscura— _upside down_ (the slides were inverted to correct this effect).
 Slides could be changed, moved or filtered or crossfaded. The path of the image could be altered with mirrors or by moving the projector and some startling theatrical effects were thereby produced to delight or terrify audiences.
 
 ------
-
-
 
 ## The "Victorian" Era
 
@@ -127,28 +124,50 @@ The first photograph to show a living person did so by accident and was produced
 
 ------
 
-
-
-
-* ### Magic Lantern
-
 * ### Optical Toys
 
+Around this time some interestingly named "optical toys", gismos and curiosities became popular:
+
     * #### Thaumatrope
+<iframe
+  class="video-left"
+  src="https://www.youtube.com/embed/U32Sv99cDOs?si=_zgAN30SCj5mEA1L"
+  title="YouTube video player"
+  frameborder="0"
+  allow="autoplay; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
     * #### Zoetrope
+<iframe
+  class="video-left"
+  src="https://www.youtube.com/embed/-3yarT_h2ws?si=m3yLkPIE4i3LywDc"
+  title="YouTube video player"
+  frameborder="0"
+  allow="autoplay; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
     * #### Praxinoscope
 
+<iframe
+  class="video-left"
+  src="https://www.youtube.com/embed/eJqp7Dlq66k?si=JmvOS4-DvglL-soR"
+  title="YouTube video player"
+  frameborder="0"
+  allow="autoplay; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
+#### _Consider:_
 
+> It's important to notice in the the last two examples that the images have to be separated. We need to see each image and then the next _in the same place_ as the first. Otherwise they all become a blur. Can you tell how projected cinematic film separates the individual frames of the image for our eye?
 
-
-
-
-
-
-
+------
+------
 
 
 
