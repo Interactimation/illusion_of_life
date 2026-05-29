@@ -48,5 +48,3 @@ Optical illusions we may have always had with us, as a species, but the specific
 
 ------
 ------
-
-![imitation of life logo](pix/IofL.jpg)
