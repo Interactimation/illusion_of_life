@@ -126,7 +126,7 @@ The first photograph to show a living person did so by accident and was produced
 
 ### Optical Toys
 
-Around this time some interestingly named "optical toys", gismos and curiosities became popular:
+Around this time some interestingly named "optical toys", gizmos and curiosities became popular:
 
 * #### Thaumatrope, Zoetrope, Praxinoscope
 
