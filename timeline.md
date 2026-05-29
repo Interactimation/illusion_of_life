@@ -68,15 +68,18 @@ But in his 1993 book, _Understanding Comics_, Scott McCloud thinks he's found se
 
 ------
 
-## 
+## Classical Antiquity
+
+It may surprise you that our word "camera" comes from the latin word for a "room". Like the room in a house, or a hotel.
+Thus a !["camera obscura" is a "dark room"](pix/obscura.jpg) and it has been known for at least two and a half millennia that, if light shines through a "pin hole" or small aperture into a darkened space, those within can see an inverted image of what lies outside.
+
+You may have heard this described as a "pinhole camera" and the Greek philospher Aristotle (384-322 BCE) was said to have used [such an apparatus to safely observe solar eclipses](https://www.youtube.com/watch?v=pqh5GDPqZRk). 
 
 ------
 
 ## The "Victorian" Era
 
 * ### Photography
-
-    * #### Beginnings
 
 ![view from the window at le gras](https://cdn.britannica.com/34/198534-050-84D8C626/joseph-nicephore-niepce-heliograph.jpg)
 
