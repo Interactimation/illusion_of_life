@@ -134,7 +134,7 @@ The first photograph to show a living person did so by accident and was produced
 #### _Consider:_
 
 > Below is the "human figure" from the Daguerre image. Can you guess what he's doing? The exposure time on this was at least 10 minutes and there must've been people, moving carts, etc on the street which the camer was not quick enough to capture. See of you can learn what people thinking this guy was up to? It may help to know the photograph is known as _Boulevard du Temple_
-![https://www.reddit.com/r/cartoons/comments/1i7bfg4/this_cave_painting_of_a_wild_boar_from_altamira/](first human figure photographed)   
+![pix/daguerrehumanFigure.png](first human figure photographed)   
 
 ------
 
