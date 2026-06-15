@@ -33,7 +33,7 @@ In this way Muybridge was able to develop a sequence of images depicting the gal
 
 #### _Engage:_
 
-> Observe the above image: Can you tell whether there is a moment where all four of the horse's hooves are off the ground? 
+> Observe the above image sequence: Can you tell whether there is a moment where all four of the horse's hooves are off the ground? 
 
 ------
 
