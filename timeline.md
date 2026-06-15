@@ -138,7 +138,7 @@ The first photograph to show a living person did so by accident and was produced
 
 > The exposure time on this was at least 10 minutes and there must've been people, moving carts, etc on the street which the camera was not quick enough to capture. 
 
-> See of you can learn what people thinking this guy was up to? It may help to know the photograph is known as _Boulevard du Temple_.
+> See of you can learn what people think this guy was up to? It may help to know the photograph is known as _Boulevard du Temple_.
   
 ------
 
