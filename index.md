@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Illusion of Life:<br />_a history of animation_
+# ILLUSION of LIFE:<br />_a history of animation_
 
 ## Table of Contents
 

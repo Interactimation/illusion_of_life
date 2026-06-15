@@ -7,7 +7,7 @@ title: Timeline
 
 ## Prehistory
 
-The species of which you are a member, has been around for at least 300,000 years —and, no doubt, has been very clever all that time. 
+Homo sapiens sapiens, the species of which you are likely a member, has been around for at least 300,000 years —and, no doubt, has been very clever that entire time. 
 
 Early human beings did not have writing but they left behind artifacts which help us understand them.
 
@@ -21,6 +21,8 @@ These images would not have been easy of access to either artists or viewers, in
 
 Many images are superimposed, one atop another, as if attempting to show the motion, or some transformation of the animal. 
 
+There must have been some special reason to create and keep such images in so remote a place. By around 21,000 years ago the original entrance to the caves had been completely sealed by rockfall, preserving it until its (re)discovery in 1994! 
+
 * ### Altamira 
 
 A little less than 922 km (600 miles) away, in the north of Spain, the [Cave of Altamira](https://www.ancientartarchive.org/altamira-cave-spain/) contains art only perhaps a little younger than the work in Chauvet.
@@ -31,13 +33,13 @@ Among its remarkable depictions is this boar with eight legs:
 
 Some believe this represents a kind of [timelapse image of the creature, walking](https://dn721604.ca.archive.org/0/items/eight-legged-boar-animation/eight-legged%20boar%20ANIMATION.gif)
 
+This has been called [the world's first "cartoon"!](https://www.reddit.com/r/cartoons/comments/1i7bfg4/this_cave_painting_of_a_wild_boar_from_altamira/)
+
 ------
 
 #### _Consider:_
 
 > Under a fickle light, moving through the dark, how did ancient people perceive these figures? As mobile, changing, alive with potent energy?
-
-There must have been some special reason to create and keep such images in so remote a place. By around 21,000 years ago the original entrance to the caves had been completely sealed by rockfall, preserving it until its (re)discovery in 1994! 
 
 ------
 
@@ -68,14 +70,14 @@ But in his 1993 book, _Understanding Comics_, Scott McCloud thinks he's found se
 
 #### _Engage:_ 
 
-> Explore McCloud's book on the Internet Archive to learn more about sequential art. Can you say _how_ animation is related to this art form he's describing?
+> Explore McCloud's book on the Internet Archive (see link: above) to learn more about sequential art. Can you say _how_ animation is related to this art form he's describing?
 
 ------
 
 ## Classical Antiquity
 
 It may surprise you that our word "camera" comes from the latin word for a "room". Like the room in a house, or a hotel.
-Thus a "camera obscura" is a "dark room" ![camera obscura"](pix/obscura.jpg) and it has been known for at least two and a half millennia that, if light shines through a "pin hole" or small aperture into a darkened space, those within can see an inverted image of what lies outside.
+Thus a "camera obscura" is a "dark room" ![camera obscura"](pix/obscura.jpg) and it has been known for at least two and a half millennia that, if light shines through a "pin hole" or small aperture into a darkened space, those within can see, projected, an inverted image of what lies outside.
 
 You may have heard this described as a "pinhole camera" and the Greek philospher Aristotle (384-322 BCE) was said to have used [such an apparatus to safely observe solar eclipses](https://www.youtube.com/watch?v=pqh5GDPqZRk). 
 
@@ -87,7 +89,15 @@ With the invention of the telescope and the microscope early in the 17th century
 
 Some time in that century, the "Magic Lantern" was invented, perhaps by [someone like Christiaan Huygens](https://www.luikerwaal.com/newframe_uk.htm?/huygens_uk.htm) or Athanasius Kircher, whose  book, _Ars Magna Lucis et Umbrae_ ("The Great Art of Light and Shadow") contains [an illustration of just such a device](https://en.wikipedia.org/wiki/Ars_Magna_Lucis_et_Umbrae#/media/File:Illustration_of_a_magic_lantern_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D.jpg). 
 
-The magic lantern was popular in entertainment and became an educational tool. It consisted of a curved, "concave" mirror directing a light source through a sheet of painted glass —a "lantern slide" and a focusing lense.
+------
+
+#### _Consider:_
+
+> Compare these images of the "magic lantern" with images of the "camera obscura". What allowed the shorter distances within the lantern were _glass lenses_. Pinholes would have made the magic lantern _huge_, requiring _intensely_ bright lights!
+
+------
+
+The magic lantern was popular in entertainment and became an educational tool. It consisted of a curved, "concave" mirror directing a light source through a sheet of painted glass —a "lantern slide" and a focusing lens.
 <iframe
   class="video-left"
   src="https://www.youtube.com/embed/Xicaw_vhSKw?si=ta13QoACgL8WHSUp"
@@ -98,7 +108,10 @@ The magic lantern was popular in entertainment and became an educational tool. I
   allowfullscreen>
 </iframe>
 Whatever's painted on the glass will appear, projected —as with the camera obscura— _upside down_ (the slides were inverted to correct this effect).
-Slides could be changed, moved or filtered or crossfaded. The path of the image could be altered with mirrors or by moving the projector and some startling theatrical effects were thereby produced to delight or terrify audiences.
+
+Slides could be changed, moved or filtered or crossfaded. The path of the image could be altered with mirrors or multiple movable slides by moving the entire projector!
+
+Some startling theatrical effects were thereby produced to delight or terrify audiences.
 
 ------
 
@@ -120,7 +133,8 @@ The first photograph to show a living person did so by accident and was produced
 
 #### _Consider:_
 
-> Below is the "human figure" from the Daguerre image. Can you guess what he's doing? The exposure time on this was at least 10 minutes and there must've been people, moving carts, etc on the street which the camer was not quick enough to capture. See of you can learn what people thinking this guy was up to? It may help to know the photograph is known as _Boulevard du Temple_    
+> Below is the "human figure" from the Daguerre image. Can you guess what he's doing? The exposure time on this was at least 10 minutes and there must've been people, moving carts, etc on the street which the camer was not quick enough to capture. See of you can learn what people thinking this guy was up to? It may help to know the photograph is known as _Boulevard du Temple_
+![https://www.reddit.com/r/cartoons/comments/1i7bfg4/this_cave_painting_of_a_wild_boar_from_altamira/](first human figure photographed)   
 
 ------
 
