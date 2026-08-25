@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Art
+title: Illusion
 ---
 
 # Animation as Art and Illusion
