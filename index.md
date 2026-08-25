@@ -4,6 +4,8 @@ layout: default
 
 # ILLUSION of LIFE:<br />_a history of animation_
 
+<img src="{{ '/pix/favicon.ico' | relative_url }}" alt="History of Animation Logo" style="width:500px">
+
 ## Table of Contents
 
 ### [Animation as Art and Illusion](art)
