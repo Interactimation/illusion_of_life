@@ -14,10 +14,7 @@ layout: default
 
 ### [Chronophotograpy: Picturing Time](muybridge)
 
-
 ### [Motion Pictures](cinema)
-
-////
 
 ### [A History of Technology and People](tech&people)
 
