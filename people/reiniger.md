@@ -9,7 +9,7 @@ Due to the loss of two films by Argentine animator Quirino Cristiani, the earlie
 
 > **CONSIDER:** How does stop motion relate to the "stop trick" discovered (by accideny) by Georges Méliès?
 
-Reiniger spent three years, animating with cardboard, semitransparent tissue, silvered paper for moonlit water, sand, paint and soap!
+Reiniger spent three years, animating with cardboard, semitransparent tissue, silvered paper, sand, paint and soap!
 
 > **QUOTE:** Berthold Bartosch, one of the animators working on the project, said, later: "During my years of work I have learned many things. Soap, it is quite extraordinary, with soap one can do everything."
 
