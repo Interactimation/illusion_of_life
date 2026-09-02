@@ -12,7 +12,7 @@ layout: default
 
 ### [A Timeline of Proto Animation](timeline)
 
-### [Chronophotograpy: Picturing Time](muybridge)
+### [Chronophotograpy: Picturing Time](people/muybridge)
 
 ### [Motion Pictures](cinema)
 
@@ -20,10 +20,4 @@ layout: default
 
 * #### [TECH: Photography](photography)
 
-* #### [Edweard Muybridge](muybridge)
-
-------
-
-END
-
-------
+* #### [Edweard Muybridge](people/muybridge)

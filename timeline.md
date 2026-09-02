@@ -181,12 +181,3 @@ Around this time some interestingly named "optical toys", gizmos and curiosities
 #### _Consider:_
 
 > It's important to notice, especially in the last two examples, that the images have to be separated. We need to see each image and then the next in the same place as the first. Otherwise they all become a blur. Can you tell how projected cinematic film separates the individual frames of the image for our eye?
-
-------
-
-END
-
-------
-
-
-

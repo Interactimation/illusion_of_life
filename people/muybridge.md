@@ -29,17 +29,8 @@ The running animal would break each thread in succession, completing a circuit a
 
 In this way Muybridge was able to develop a sequence of images depicting the galloping of a horse!  
 
-------
-
 #### _Engage:_
 
 > Observe the above image sequence: Can you tell whether there is a moment where all four of the horse's hooves are off the ground? 
 
-------
-
 Muybridge was clever enough to realize that here he had a scientific instrument unlike any developed before and [his motion studies](https://pafaarchives.org/s/digital/page/alsmain) are classics of the field!
-
-
-
-
-

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tehch&people
+title: Tech and People
 ---
 
 
@@ -13,19 +13,12 @@ title: tehch&people
 
 ### People
 
-* [Eadweard Muybridge](people/muybridge)
+* [Eadweard Muybridge](people/muybridge.md)
 
-* [Lotte Reiniger](people/reiniger)
+* [Lotte Reiniger](people/reiniger.md)
 
-* [Walt Disney](people/disney)
+* [Walt Disney](people/disney.md)////TODO
 
-* [They]
-
+* 
 
 ### Technology
-
-------
-END
-------
-
-
