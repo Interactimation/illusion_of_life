@@ -17,8 +17,10 @@ title: Tech and People
 
 * [Lotte Reiniger](people/reiniger.md)
 
+* [The Fleischers](people/fleischers.md)////TODO
+
 * [Walt Disney](people/disney.md)////TODO
 
-* 
+### Technology ////TODO
 
-### Technology
+

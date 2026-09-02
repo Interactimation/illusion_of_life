@@ -8,16 +8,18 @@ layout: default
 
 ## Table of Contents
 
-### [Animation as Art and Illusion](art)
+### [Animation as Art and Illusion](art.md)
 
-### [A Timeline of Proto Animation](timeline)
+### [A Timeline of Proto Animation](timeline.md)
 
 ### [Chronophotograpy: Picturing Time](people/muybridge)
 
-### [Motion Pictures](cinema)
+### [Motion Pictures](cinema.md)
 
-### [A History of Technology and People](tech&people)
+### [A History of Technology and People](tech_people.md)
 
-* #### [TECH: Photography](photography)
+* #### [TECH: Photography](photography.md)
 
-* #### [Edweard Muybridge](people/muybridge)
+* #### [Outliers](outliers.md)
+
+* #### [Trendsetters](trendsetters.md)
