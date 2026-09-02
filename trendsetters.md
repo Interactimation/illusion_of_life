@@ -11,3 +11,7 @@ Which inspired the French film
 _Hôtel électrique_ [The Electric Hotel](https://youtu.be/E2BosZTXrM0?t=162) of **Segundo de Chomón** in  1908
 
 This latter film may be the first to feature [pixilation](https://en.wikipedia.org/wiki/Pixilation), the stop-motion animation of live performers
+
+Also in 1908, this _stream of consciousness_ animation, [Fantasmagorie](https://www.youtube.com/watch?v=o1d28X0lkJ4) was created by French artist Émile Cohl
+
+
