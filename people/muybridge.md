@@ -5,9 +5,9 @@ title: Muybridge
 
 # Chronophotograpy: Picturing Time
 
-![muybridge](pix/muybridge.jpg)
+![muybridge](../pix/muybridge.jpg)
 
-An English photographer, Edweard Muybridge traveled the United States in the mid 1800s. He became a pioneer of American and global photography when, in 1872, Leland Stanford (former Governor of California and founder of Stanford University) hired him to take some photos of the race horse, Occident.  
+English photographer, Edweard Muybridge, traveled the United States in the mid 1800s. He became a pioneer of American and global photography when, in 1872, Leland Stanford (former Governor of California and founder of Stanford University) hired him to take some photos of the race horse, Occident.  
 
 Stanford had theories about how horses run, but they do it so rapidly it's hard for human beings to see. 
 
