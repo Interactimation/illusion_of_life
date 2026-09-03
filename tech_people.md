@@ -17,10 +17,25 @@ title: Tech and People
 
 * [Lotte Reiniger](people/reiniger.md)
 
-* [The Fleischers](people/fleischers.md)////TODO
+* [The Fleischers](people/fleischers.md)
 
 * [Walt Disney](people/disney.md)////TODO
 
-### Technology ////TODO
+### Technology
+
+* [Kinetoscope](https://www.youtube.com/watch?v=yY1d_WtMjQg)
+
+* [Cinematograph](https://www.youtube.com/watch?v=Iq2tzyTs5qg)
+
+* [Nitrate Film Stock](https://www.youtube.com/watch?v=raEDtLNd3l4)
+
+* [Cel Animation: Celluloid](https://youtu.be/pdeCMWwMSRY?t=56)
+
+* [Rotoscope](https://www.youtube.com/watch?v=p42Yr3gVLqg)
+
+
+
+
+
 
 
