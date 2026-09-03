@@ -10,6 +10,10 @@ Max Fleischer, a Polish (Galician) immigrant to the US, patented, in 1915 the [r
 Known as the "Fleischer Process" it was remained exclusive to Fleischer for several years\
 Live-film reference for Fleischer's Koko the Clown character was his [brother Dave in a clown costume](https://www.youtube.com/watch?v=mJDwJU0jzMA) (First appearance of the character who would later be known as Koko)
 
+[Fleischer Studios: Behind the Scenes](https://www.youtube.com/watch?v=iy-Nwxugs-8)
+
+<!--//// TODO
+fleischer stereoptical process setback camera--> 
 
 
 
