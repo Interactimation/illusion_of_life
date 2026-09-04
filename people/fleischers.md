@@ -12,6 +12,11 @@ Live-film reference for Fleischer's Koko the Clown character was his [brother Da
 
 [Fleischer Studios: Behind the Scenes](https://www.youtube.com/watch?v=iy-Nwxugs-8)
 
+------
+
+[A Fleischer Playlist]
+
+
 <!--//// TODO
 fleischer stereoptical process setback camera--> 
 

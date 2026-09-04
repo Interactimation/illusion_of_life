@@ -1,4 +1,10 @@
-CelRotoFleischerVideos
+---
+layout: page
+title: Fleischer Playlist
+---
+
+
+# Fleischer Playlist
 
 
 https://www.youtube.com/watch?v=AfsU50X4Fjk&amp;t=5s | The Clown's Pup | 1919 | Out of the Inkwell | 16mm | Koko the Clown | Max Fleischer Studios Cartoon - YouTube
@@ -21,7 +27,7 @@ https://www.youtube.com/watch?v=p42Yr3gVLqg | Rotoscope Revolution In Animation 
 
 https://www.youtube.com/watch?v=iy-Nwxugs-8 | Popular Science | 35mm | Fleischer Studios Behind The Scenes | 1938 | Max Fleischer Popeye Cartoon - YouTube
 
-https://www.youtube.com/watch?v=fXxMdXLh41o | Popeye the Sailor (1933) | First Popeye Cartoon Ever!⚓💪| Classic Animation in HD #popeye - YouTube
+https://www.youtube.com/watch?v=L7XwesDbZzk | Popeye the Sailor (1933) | First Popeye Cartoon Ever!⚓💪| Classic Animation in HD #popeye - YouTube
 
 https://www.youtube.com/ | YouTube
 https://www.youtube.com/watch?v=QKzpIgqzVrk&amp;pp=ugUEEgJlbg%3D%3D | Piano Tooners (1932) for Thunderbean Thursday - YouTube
