@@ -5,7 +5,7 @@ That might be spoken words with lip movements, or the clapping of a [_clapperboa
 
 ## Vitaphone
 
-In the 1920s,a company called [Vitaphone produced sync sound with discs]() (essentially records) which captured sounds in [cut groves](https://www.youtube.com/shorts/1IotjpIZvAg)
+In the 1920s,a company called [Vitaphone produced sync sound with discs](https://www.youtube.com/watch?v=S1ONEdascKQ) (essentially records) which captured sounds in [cut groves](https://www.youtube.com/shorts/1IotjpIZvAg)
 
 
 
