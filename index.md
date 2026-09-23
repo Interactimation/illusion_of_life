@@ -22,7 +22,13 @@ layout: default
 
 * #### [TECH: Photography](photography.md)
 
-* #### [Outliers](outliers.md)
+* #### [TECH: Sync Sound](sync.md) ////TODO
 
-* #### [Trendsetters](trendsetters.md)
+* #### [TECH: Color Processes](color.md)
+
+* #### [PEOPLE: Trendsetters](trendsetters.md)
+
+* #### [TECH and PEOPLE: Outliers](outliers.md)
+
+
 
