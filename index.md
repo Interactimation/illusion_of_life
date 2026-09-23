@@ -22,7 +22,7 @@ layout: default
 
 * #### [TECH: Photography](photography.md)
 
-* #### [TECH: Sync Sound](sync.md) ////TODO
+* #### [TECH: Sync Sound](sync.md)
 
 * #### [TECH: Color Processes](color.md)
 
