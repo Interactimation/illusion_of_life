@@ -7,8 +7,6 @@ That might be spoken words with lip movements, or the clapping of a [_clapperboa
 
 In the 1920s,a company called [Vitaphone produced sync sound with discs](https://www.youtube.com/watch?v=S1ONEdascKQ) (essentially records) which captured sounds in [cut groves](https://www.youtube.com/shorts/1IotjpIZvAg)
 
-
-
 ## Optical Soundtrack
 
 Disney's _Fantasia_ (1940) introduces a cartoon version of the "optical soundtrack" in this [interstitial](https://en.wikipedia.org/wiki/Interstitial_television_show) segment called [Meet the Soundtrack](https://ok.ru/video/9884467137075?fromTime=3920), one of several with an orchestra
