@@ -18,6 +18,8 @@ layout: default
 
 ### [Cel Animation](https://www.youtube.com/watch?v=em7E5Zr6QEU)
 
+### [Stop Motion](stopMotion.md)
+
 ### [A History of Technology and People](tech_people.md)
 
 * #### [TECH: Photography](photography.md)
