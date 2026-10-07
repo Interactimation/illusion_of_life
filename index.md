@@ -32,5 +32,9 @@ layout: default
 
 * #### [TECH and PEOPLE: Outliers](outliers.md)
 
+## International Animation
+
+### [Japanese _Anime_](anime.md)
+
 
 
